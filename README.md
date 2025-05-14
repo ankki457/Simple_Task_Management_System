@@ -1,4 +1,4 @@
-# Simple Task Management System
+![Screenshot (200)](https://github.com/user-attachments/assets/b7b6cbc1-823f-4367-b682-60a490b69701)# Simple Task Management System
 
 ## Overview
 The **Simple Task Management System** is a web-based application that helps users manage their tasks efficiently. Users can create, view, edit, delete, and prioritize tasks. The system also includes user authentication, task assignment, and a color-coded priority management system
@@ -132,4 +132,6 @@ The **Simple Task Management System** is a web-based application that helps user
 ![Screenshot (89)](https://github.com/user-attachments/assets/3fba70de-c31d-4d32-adb7-f206bf4725cd)
 ![Screenshot (90)](https://github.com/user-attachments/assets/ca2bbc98-7a55-442d-8c07-5543200bab99)
 ![Screenshot (91)](https://github.com/user-attachments/assets/adaed8c1-0ece-4716-b2cb-e13cf0828fbd)
+![Screenshot (200)](https://github.com/user-attachments/assets/c1650c15-dd3b-404a-a123-915adfab1441)
+![Screenshot (201)](https://github.com/user-attachments/assets/e87d22d9-3d31-4cfa-996f-4639f41634c0)
 
