@@ -127,8 +127,9 @@ The **Simple Task Management System** is a web-based application that helps user
 - Multi-language support for better accessibility.
 
 ---
-![Screenshot (87)](https://github.com/user-attachments/assets/a479cf70-dee3-4906-ac44-19a3c3baa623)
-![Screenshot (88)](https://github.com/user-attachments/assets/8d0d0e12-b3c6-43a5-b5b0-668596f312fa)
-![Screenshot (89)](https://github.com/user-attachments/assets/2e3671d1-ed80-49d2-a279-6648f1b5918f)
-![Screenshot (90)](https://github.com/user-attachments/assets/650b7de7-2126-416c-97d8-be4272e8b125)
-![Screenshot (91)](https://github.com/user-attachments/assets/57302d3e-158f-4ef6-a6a8-b097eb18072f)
+![Screenshot (87)](https://github.com/user-attachments/assets/612c2032-bfd0-43b9-beba-e170386dc311)
+![Screenshot (88)](https://github.com/user-attachments/assets/20d87a39-9501-4078-a24d-eae322a54ff2)
+![Screenshot (89)](https://github.com/user-attachments/assets/3fba70de-c31d-4d32-adb7-f206bf4725cd)
+![Screenshot (90)](https://github.com/user-attachments/assets/ca2bbc98-7a55-442d-8c07-5543200bab99)
+![Screenshot (91)](https://github.com/user-attachments/assets/adaed8c1-0ece-4716-b2cb-e13cf0828fbd)
+
